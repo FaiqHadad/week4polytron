@@ -1,0 +1,170 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1729222233
+<< psubdiff >>
+rect -176 407 -116 441
+rect 1046 407 1106 441
+rect -176 381 -142 407
+rect 1072 381 1106 407
+rect -176 -473 -142 -447
+rect 1072 -473 1106 -447
+rect -176 -507 -116 -473
+rect 1046 -507 1106 -473
+<< psubdiffcont >>
+rect -116 407 1046 441
+rect -176 -447 -142 381
+rect 1072 -447 1106 381
+rect -116 -507 1046 -473
+<< poly >>
+rect -92 360 0 376
+rect -92 326 -76 360
+rect -42 326 0 360
+rect -92 310 0 326
+rect -30 294 0 310
+rect 930 360 1022 376
+rect 930 326 972 360
+rect 1006 326 1022 360
+rect 930 310 1022 326
+rect 930 296 958 310
+rect 58 -66 872 0
+rect -30 -376 0 -362
+rect -92 -392 0 -376
+rect -92 -426 -76 -392
+rect -42 -426 0 -392
+rect -92 -442 0 -426
+rect 930 -376 960 -365
+rect 930 -392 1022 -376
+rect 930 -426 972 -392
+rect 1006 -426 1022 -392
+rect 930 -442 1022 -426
+<< polycont >>
+rect -76 326 -42 360
+rect 972 326 1006 360
+rect -76 -426 -42 -392
+rect 972 -426 1006 -392
+<< locali >>
+rect -176 407 -116 441
+rect 1046 407 1106 441
+rect -176 381 -142 407
+rect 1072 381 1106 407
+rect -92 326 -76 360
+rect -42 326 -26 360
+rect 956 326 972 360
+rect 1006 326 1022 360
+rect -92 -426 -76 -392
+rect -42 -426 -26 -392
+rect 956 -426 972 -392
+rect 1006 -426 1022 -392
+rect -176 -473 -142 -447
+rect 1072 -473 1106 -447
+rect -176 -507 -116 -473
+rect 1046 -507 1106 -473
+<< viali >>
+rect 221 441 273 450
+rect 221 407 273 441
+rect 221 398 273 407
+rect -76 326 -42 360
+rect 972 326 1006 360
+rect -76 -426 -42 -392
+rect 972 -426 1006 -392
+<< metal1 >>
+rect 209 450 285 456
+rect 209 398 221 450
+rect 273 398 285 450
+rect 209 392 285 398
+rect -88 360 -30 366
+rect -88 326 -76 360
+rect -42 326 -30 360
+rect -88 320 -30 326
+rect 6 320 84 366
+rect 845 320 924 366
+rect 960 360 1018 366
+rect 960 326 972 360
+rect 1006 326 1018 360
+rect 960 320 1018 326
+rect -76 276 -42 320
+rect 6 277 52 320
+rect 878 276 924 320
+rect 972 276 1006 320
+rect -76 100 46 276
+rect 878 269 1006 276
+rect 211 211 221 263
+rect 273 211 283 263
+rect 429 110 439 162
+rect 491 110 501 162
+rect 884 100 1006 269
+rect 231 -18 264 91
+rect 665 -18 700 90
+rect 231 -46 700 -18
+rect 231 -158 264 -46
+rect 398 -122 552 -76
+rect 442 -154 488 -122
+rect 665 -163 700 -46
+rect -76 -176 46 -166
+rect 884 -176 1006 -166
+rect -76 -228 3 -176
+rect 55 -228 65 -176
+rect 865 -228 875 -176
+rect 927 -228 1006 -176
+rect -76 -342 46 -228
+rect 884 -342 1006 -228
+rect -76 -386 -42 -345
+rect 972 -386 1006 -346
+rect -88 -392 -30 -386
+rect -88 -426 -76 -392
+rect -42 -426 -30 -392
+rect -88 -432 -30 -426
+rect 960 -392 1018 -386
+rect 960 -426 972 -392
+rect 1006 -426 1018 -392
+rect 960 -432 1018 -426
+<< via1 >>
+rect 221 398 273 450
+rect 221 211 273 263
+rect 439 110 491 162
+rect 3 -228 55 -176
+rect 875 -228 927 -176
+<< metal2 >>
+rect 221 450 273 460
+rect 221 263 273 398
+rect 221 201 273 211
+rect 439 162 491 172
+rect 439 -18 491 110
+rect 3 -46 927 -18
+rect 3 -176 55 -46
+rect 3 -238 55 -228
+rect 875 -176 927 -46
+rect 875 -238 927 -228
+use sky130_fd_pr__nfet_01v8_6H9P4D  sky130_fd_pr__nfet_01v8_6H9P4D_0
+timestamp 1729219591
+transform 1 0 945 0 1 188
+box -73 -126 73 126
+use sky130_fd_pr__nfet_01v8_6H9P4D  sky130_fd_pr__nfet_01v8_6H9P4D_1
+timestamp 1729219591
+transform 1 0 -15 0 1 188
+box -73 -126 73 126
+use sky130_fd_pr__nfet_01v8_6H9P4D  sky130_fd_pr__nfet_01v8_6H9P4D_2
+timestamp 1729219591
+transform 1 0 -15 0 1 -254
+box -73 -126 73 126
+use sky130_fd_pr__nfet_01v8_6H9P4D  sky130_fd_pr__nfet_01v8_6H9P4D_3
+timestamp 1729219591
+transform 1 0 945 0 1 -254
+box -73 -126 73 126
+use sky130_fd_pr__nfet_01v8_DXNGNZ  sky130_fd_pr__nfet_01v8_DXNGNZ_0
+timestamp 1729218910
+transform 1 0 465 0 1 188
+box -465 -188 465 188
+use sky130_fd_pr__nfet_01v8_DXNGNZ  sky130_fd_pr__nfet_01v8_DXNGNZ_1
+timestamp 1729218910
+transform 1 0 465 0 1 -254
+box -465 -188 465 188
+<< labels >>
+flabel metal2 242 350 242 350 0 FreeSans 800 0 0 0 gnd
+port 0 nsew
+flabel metal1 -24 188 -24 188 0 FreeSans 800 0 0 0 d8
+port 1 nsew
+flabel metal1 -20 -248 -20 -248 0 FreeSans 800 0 0 0 out
+port 2 nsew
+<< end >>
